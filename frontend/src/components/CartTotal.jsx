@@ -42,5 +42,6 @@ const CartTotal = () => {
     </div>
   )
 }
-
+//this is for the cart total component
+//it calculates the total amount of the cart including delivery fee
 export default CartTotal
