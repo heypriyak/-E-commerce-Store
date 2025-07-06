@@ -109,9 +109,9 @@ VITE_BACKEND_URL = "http://localhost:4000"
 
 Replace the placeholder values with your actual Appwrite credentials.
 
-**Running the Project**
+***Running the Project***
 
-**Admin Dashboard Running On:**
+***Admin Dashboard Running On:***
 
 ```bash
 cd admin
@@ -121,7 +121,7 @@ cd admin
 npm run dev
 ```
 
-**Backend Running On:**
+***Backend Running On:***
 
 ```bash
 cd backend
@@ -131,7 +131,7 @@ cd backend
 npm run server
 ```
 
-**Frontend Running On:**
+***Frontend Running On:***
 
 ```bash
 cd frontend
